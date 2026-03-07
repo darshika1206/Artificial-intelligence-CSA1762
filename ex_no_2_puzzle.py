@@ -225,4 +225,3 @@ print("Operations:")
 # Function call to solve the puzzle
 solve(initial, empty_tile_pos, final)
 
-# This code is contributed by Kevin Joshi
